@@ -1,16 +1,26 @@
-# mausam
+# Weather App
 
-A new Flutter project.
+This is a weather app developed using the OpenWeatherMap API to fetch weather data and display it in a fresh and animated user interface.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Current Weather**: Display the current weather conditions, including temperature, humidity, wind speed, and more.
+- **Animated UI**: The user interface is designed with smooth animations to provide an engaging experience.
+- **Daily Forecast**: View the weather forecast for the upcoming days to plan ahead.
+- **Search Functionality**: Search for weather information for different locations around the world.
+- **Background Changes**: The background of the app changes dynamically based on the current weather conditions.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+
+- **Flutter**: The app is developed using the Flutter framework, allowing for cross-platform compatibility.
+- **OpenWeatherMap API**: Weather data is fetched from the OpenWeatherMap API, providing accurate and up-to-date information.
+- **Animations**: Flutter animations are used to create smooth transitions and visual effects throughout the app.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/weather-app.git
